@@ -1,0 +1,12 @@
+pyspark
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+transformers
+torch
+sentence-transformers
+textblob
+vaderSentiment
+wordcloud
